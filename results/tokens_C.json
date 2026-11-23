@@ -1,0 +1,83 @@
+{
+  "D1": [
+    "inform",
+    "retriev",
+    "help",
+    "user",
+    "find",
+    "relev",
+    "document"
+  ],
+  "D2": [
+    "inform",
+    "retriev",
+    "system",
+    "index",
+    "document",
+    "document"
+  ],
+  "D3": [
+    "search",
+    "engin",
+    "retriev",
+    "relev",
+    "web",
+    "document"
+  ],
+  "D4": [
+    "document",
+    "index",
+    "support",
+    "effici",
+    "inform",
+    "retriev"
+  ],
+  "D5": [
+    "machin",
+    "learn",
+    "improv",
+    "search",
+    "engin",
+    "rank"
+  ],
+  "D6": [
+    "search",
+    "system",
+    "use",
+    "index",
+    "document",
+    "retriev",
+    "inform"
+  ],
+  "D7": [
+    "search",
+    "engin",
+    "retriev",
+    "document",
+    "document",
+    "searchabl"
+  ],
+  "D8": [
+    "index",
+    "document",
+    "make",
+    "inform",
+    "retriev",
+    "effici"
+  ],
+  "D9": [
+    "document",
+    "contain",
+    "inform",
+    "document",
+    "index"
+  ],
+  "D10": [
+    "retriev",
+    "system",
+    "organis",
+    "document",
+    "document",
+    "collect"
+  ]
+}
