@@ -1,4 +1,0 @@
-Version,Vocabulary size,Avg tokens / document,Total postings (term-doc pairs),Total stored positions
-A: lowercase + punctuation,36,6.9,66,69
-B: A + stop-words,30,6.1,59,61
-C: B + stemming,24,6.1,57,61
